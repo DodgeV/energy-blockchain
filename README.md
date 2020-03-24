@@ -11,7 +11,7 @@
 + [区块链优质资源1](https://github.com/huifenghechang/blockchain)
 + [区块链教程](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/SUMMARY.md)
 + [区块链教程gitbook](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/)
-+ [区块链教程wiki纯英文](https://github.com/liuchengxu/blockchain-tutorial/wiki）
++ [区块链教程wiki纯英文](https://github.com/liuchengxu/blockchain-tutorial/wiki)
 
 ## some videos
 + [北京大学肖臻区块链](https://www.bilibili.com/video/av37065233)
