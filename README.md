@@ -1,4 +1,6 @@
 # energy-blockchain
++ ![去中心化](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3052745747,975321995&fm=173&app=49&f=JPEG?w=300&h=214&s=3E2870231981C4CE1CDD95DA010080B1)
+
 ## some dissertations and codes for energy blockchain 
 + [用Python实现简单的区块链系统](https://www.jianshu.com/p/03844ab5af12)
 - [手把手：用Python实现一个基于RSA算法的区块链客户端](https://www.jianshu.com/p/2ba6a9a184b6)
@@ -10,6 +12,7 @@
 + [区块链教程](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/SUMMARY.md)
 + [区块链教程gitbook](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/)
 + [区块链教程wiki纯英文](https://github.com/liuchengxu/blockchain-tutorial/wiki）
+
 ## some videos
 + [北京大学肖臻区块链](https://www.bilibili.com/video/av37065233)
 + [李永乐BTC](https://www.bilibili.com/video/BV1Bb411B7dq)
