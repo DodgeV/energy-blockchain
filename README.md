@@ -1,5 +1,5 @@
 # energy-blockchain
-+ ![去中心化](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1585030641058&di=2dea7b43c291b9c1f8f5ee8857357f29&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20171021%2Fd707e8e8794446c4a26b2f60f835e491.png)
++ ![去中心化](http://img4.imgtn.bdimg.com/it/u=1473446731,338437107&fm=26&gp=0.jpg)
 
 ## some dissertations and codes for energy blockchain 
 + [用Python实现简单的区块链系统](https://www.jianshu.com/p/03844ab5af12)
