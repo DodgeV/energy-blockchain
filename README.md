@@ -13,6 +13,10 @@
 + [区块链教程gitbook](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/)
 + [区块链教程wiki纯英文](https://github.com/liuchengxu/blockchain-tutorial/wiki)
 
+## various consensus mechanism(algorithm)
++ [DPOS](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/misc/dpos-consensus-algorithm-this-missing-white-paper.md)
+
+
 ## some videos
 + [北京大学肖臻区块链](https://www.bilibili.com/video/av37065233)
 + [李永乐BTC](https://www.bilibili.com/video/BV1Bb411B7dq)
