@@ -1,5 +1,6 @@
 # energy-blockchain
 + ![去中心化](http://img4.imgtn.bdimg.com/it/u=1473446731,338437107&fm=26&gp=0.jpg)
++ [VAKT](https://www.thoughtworks.com/cn/clients/vakt)
 
 ## some dissertations and codes for energy blockchain 
 + [用Python实现简单的区块链系统](https://www.jianshu.com/p/03844ab5af12)
@@ -14,6 +15,7 @@
 
 ## 分布式系统篇
 - [初识分布式系统](https://zhuanlan.zhihu.com/p/35573082)
+- [关于一致性](http://www.hollischuang.com/archives/663)
 - [分布式系统的一致性与共识性](https://zhuanlan.zhihu.com/p/35596768)
 - [分布式系统中的FLP不可能原理、CAP理论与BASE理论](https://zhuanlan.zhihu.com/p/35608244)
 
