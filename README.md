@@ -1,5 +1,5 @@
 # energy-blockchain
-+ ![去中心化](http://img4.imgtn.bdimg.com/it/u=1473446731,338437107&fm=26&gp=0.jpg)
++ ![去中心化](https://github.com/DodgeV/energy-blockchain/blob/master/timg.png)
 + [VAKT](https://www.thoughtworks.com/cn/clients/vakt)
 
 ## distributed system
