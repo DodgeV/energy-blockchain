@@ -15,6 +15,7 @@
 
 ## 分布式系统篇
 - [初识分布式系统](https://zhuanlan.zhihu.com/p/35573082)
+- [分布式中心化与去中心化](https://baijiahao.baidu.com/s?id=1600500806691832299&wfr=spider&for=pc)
 - [关于一致性](http://www.hollischuang.com/archives/663)
 - [分布式系统的一致性与共识性](https://zhuanlan.zhihu.com/p/35596768)
 - [分布式系统中的FLP不可能原理、CAP理论与BASE理论](https://zhuanlan.zhihu.com/p/35608244)
@@ -29,8 +30,11 @@
 - [Fabric 区块链技术开发专栏](https://zhuanlan.zhihu.com/c_154064303)
 
 ## various consensus mechanism(algorithm)
++ [PAXOS](https://www.cnblogs.com/binyue/p/8645565.html)
 + [DPOS](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/misc/dpos-consensus-algorithm-this-missing-white-paper.md)
 + [两段提交协议与三段提交协议](https://zhuanlan.zhihu.com/p/35616810)
++ [RAFT](https://www.cnblogs.com/xybaby/p/10124083.html)
+
 
 ## some videos
 + [北京大学肖臻区块链](https://www.bilibili.com/video/av37065233)
