@@ -23,12 +23,15 @@
 + [RAFT](https://www.cnblogs.com/xybaby/p/10124083.html)
 
 
-## dissertations for energy blockchain
+## dissertations for blockchain
 + [Merkle tree](https://github.com/wujinsen/LearnBlockChain/wiki/Merkle-Tree%E4%B8%8E%E5%8C%BA%E5%9D%97%E9%93%BE)
 + [精通BTC](http://v1.8btc.com/books/834/masterbitcoin2cn/_book/)
 + [区块链教程](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/SUMMARY.md)
 + [区块链教程gitbook](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/)
 + [区块链教程wiki纯英文](https://github.com/liuchengxu/blockchain-tutorial/wiki)
++ [不可能三角：区块链最大的谎言](https://baijiahao.baidu.com/s?id=1615661769014560837&wfr=spider&for=pc)
++ [图灵奖得主破解不可能三角--Algorand](https://www.jianshu.com/p/1c17ab53380a)
++ [Algorand是啥](https://blog.csdn.net/sanganqi_wusuierzi/article/details/78846430)
 
 
 ## codes for energy blockchain 
