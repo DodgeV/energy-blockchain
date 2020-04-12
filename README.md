@@ -46,5 +46,5 @@
 
 
 ## some videos
-+ [北京大学肖臻区块链](https://www.bilibili.com/video/av37065233)
++ [北京大学肖臻区块链](https://www.bilibili.com/video/av37065233) [对应笔记](https://xuthus.cc/misc/blockchain-exploration.html#puzzle-friendly)
 + [李永乐BTC](https://www.bilibili.com/video/BV1Bb411B7dq)
