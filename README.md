@@ -4,6 +4,7 @@
 + [Blockchain Demo](https://andersbrownworth.com/blockchain)
 
 ## distributed system
+- [2020 MIT 6.824 distributed system](https://www.bilibili.com/video/BV1R7411t71W)
 - [初识分布式系统](https://zhuanlan.zhihu.com/p/35573082)
 - [分布式中心化与去中心化](https://baijiahao.baidu.com/s?id=1600500806691832299&wfr=spider&for=pc)
 - [关于一致性](http://www.hollischuang.com/archives/663)
@@ -99,7 +100,7 @@
 + really valuable course by linux foundation: https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies
 
 
-## some videos
+## some tutorials about Blockchain
 + [北京大学肖臻区块链](https://www.bilibili.com/video/av37065233) [对应笔记](https://xuthus.cc/misc/blockchain-exploration.html)
 + [李永乐BTC](https://www.bilibili.com/video/BV1Bb411B7dq)
 + Blockchain 101 - A Visual Demo: [YouTube](https://www.youtube.com/watch?v=_160oMzblY8)
@@ -108,9 +109,6 @@
 + Simple Handon using JAVASCRIPT - SAVJEE (highly recommended): [YouTube](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw)
 + Siraj Raval youtube cryptocurrencies series: [YouTube](https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL)
 + Basic Blockchain Essentials course by IBM: https://cognitiveclass.ai/courses/blockchain-course/
-
-
-## More about Blockchain
 + Blockchain on IBM: https://www.ibm.com/blockchain/getting-started 
 + Step by step guide for beginners: https://blockgeeks.com/guides/what-is-blockchain-technology/
 + Step by step Guide in Building a blockchain application with Hyperledger&GO: https://chainhero.io/2018/06/tutorial-build-blockchain-app-v1-1-0/ 
