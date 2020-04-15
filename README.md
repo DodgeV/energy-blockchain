@@ -4,6 +4,7 @@
 + [Blockchain Demo](https://andersbrownworth.com/blockchain)
 
 ## distributed system
+- [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
 - [2020 MIT 6.824 distributed system](https://www.bilibili.com/video/BV1R7411t71W)
 - [初识分布式系统](https://zhuanlan.zhihu.com/p/35573082)
 - [分布式中心化与去中心化](https://baijiahao.baidu.com/s?id=1600500806691832299&wfr=spider&for=pc)
