@@ -80,6 +80,7 @@
 - [手把手：用Python实现一个基于RSA算法的区块链客户端](https://www.jianshu.com/p/2ba6a9a184b6)
 - [20分钟，我用简单的Python代码创建了一个完整的区块链](https://blog.csdn.net/blockchain_lemon/article/details/80891527)
 + [How to Build Your Own Blockchain Part 1 — Creating, Storing, Syncing, Displaying, Mining, and Proving Work](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/)
++ [用fabric 1.0模拟多用户在能源互联网环节中使用能源区块链进行能源交易](https://github.com/zdpleon/energy_blockchain)
 
 
 ## Multichain
