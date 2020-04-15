@@ -118,3 +118,6 @@
 A tip before watching all the resources : Bitcoin!=Blockchain, that means blockchain is not only bitcoin.
 + What is Blockchain Technology: https://www.coindesk.com/information/what-is-blockchain-technology/
 
+Some of the above websites may need these tools to access：
+* [zlnlsw205/www](https://github.com/zlnlsw205/www) 
+* [jdzs1/fq](https://github.com/jdzs1/fq)
