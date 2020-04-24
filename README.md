@@ -139,6 +139,7 @@
 - [20分钟，我用简单的Python代码创建了一个完整的区块链](https://blog.csdn.net/blockchain_lemon/article/details/80891527)
 + [How to Build Your Own Blockchain Part 1 — Creating, Storing, Syncing, Displaying, Mining, and Proving Work](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/)
 + [用fabric 1.0模拟多用户在能源互联网环节中使用能源区块链进行能源交易(完整的项目)](https://github.com/zdpleon/energy_blockchain)
++ [Interacting with Ethereum using the RPC JSON API](https://github.com/nschapeler/Ethereum-RPCJSON/blob/master/EthereumRpc.ipynb)
 
 
 ## Multichain
