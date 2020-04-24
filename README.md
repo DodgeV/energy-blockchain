@@ -4,6 +4,10 @@
 + [Blockchain Demo](https://andersbrownworth.com/blockchain)
 
 
+## dissertation for energy
++ [中国石油垄断现状及破解垄断之法](https://www.ixueshu.com/document/7cb1870cbb87480a318947a18e7f9386.html)
+
+
 ## some tutorials about Blockchain
 + What is Blockchain Technology: https://www.coindesk.com/information/what-is-blockchain-technology/
 + [北京大学肖臻区块链](https://www.bilibili.com/video/av37065233) [对应笔记](https://xuthus.cc/misc/blockchain-exploration.html)
@@ -85,9 +89,12 @@
 ### DPOS
 + [DPOS](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/misc/dpos-consensus-algorithm-this-missing-white-paper.md)
 
-
-## dissertation for energy
-+ [中国石油垄断现状及破解垄断之法](https://www.ixueshu.com/document/7cb1870cbb87480a318947a18e7f9386.html)
+## 比特币学习实践
+- [Ubuntu18.04编译比特币](https://blog.csdn.net/The_Reader/article/details/84842094)
+- [搭建比特币测试网络并用C++进行RPC调用实现转账](https://github.com/youngqqcn/QBlockChainNotes/tree/master/比特币/1-搭建比特币测试网络testnet.md)
+- [2-比特币全节点搭建](https://github.com/youngqqcn/QBlockChainNotes/tree/master/比特币/2-比特币全节点搭建.md)
+- [3-比特币对接文档](https://github.com/youngqqcn/QBlockChainNotes/tree/master/比特币/3-比特币对接文档.md)
+- [4-比特币私钥公钥地址生成](https://github.com/youngqqcn/QBlockChainNotes/tree/master/比特币/4-比特币私钥公钥地址生成.md)
 
 
 ## blockchain2.0----Ethereum and smart contracts
