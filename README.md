@@ -24,6 +24,7 @@
 
 
 ## dissertations for blockchain
++ [区块链经济学：制度加密经济学入门指南](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/misc/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics.md)
 + [Merkle tree](https://github.com/wujinsen/LearnBlockChain/wiki/Merkle-Tree%E4%B8%8E%E5%8C%BA%E5%9D%97%E9%93%BE)
 + [精通BTC](http://v1.8btc.com/books/834/masterbitcoin2cn/_book/)
 + [区块链教程](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/SUMMARY.md) [完整gitbook](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/)
@@ -77,16 +78,26 @@
 - [区块链中的密码学与安全技术](https://zhuanlan.zhihu.com/p/35649160)
 - [去中心化：可信与验证 | 非对称加密](https://zhuanlan.zhihu.com/p/39543108)
 
-
 ## various consensus mechanism(algorithm)
-+ [一致性算法(Paxos、RAFT、ZAB)](https://www.bilibili.com/video/av21667358/)
+区块链就技术层面而言，共识（consensus）是核心。共识是为了防双花（double spending）
+除了区块链共识，现在还经常提到一个概念：DAG（Directed Acyclic Graph，有向无环图）
+### PBFT: Practical Byzantine Fault Tolerance，实用拜占庭容错
+### PoS: Proof of Stake, 权益证明
+### pow：Proof of Work,工作量证明
++ [PoW 本质上是个去中心化的时钟](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/fundamentals/explain-pow.md)
 ### paxos
 + [从分布式一致性到共识机制（一）Paxos算法](https://www.cnblogs.com/binyue/p/8645565.html)
++ [一致性算法(Paxos、RAFT、ZAB)](https://www.bilibili.com/video/av21667358/)
 ### RAFT
 + [RAFT](https://www.cnblogs.com/xybaby/p/10124083.html)
 + [RAFT--github](https://raft.github.io/)
-### DPOS
+### DPoS: Delegated Proof of Stake, 委托权益证明
 + [DPOS](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/misc/dpos-consensus-algorithm-this-missing-white-paper.md)
+### PoA
+### 参考
++ [浅谈区块链共识机制与分布式一致性算法](https://bitcointalk.org/index.php?topic=1543391.0)
++ [Concensus in Blockchain Systems. In Short.](https://medium.com/@chrshmmmr/consensus-in-blockchain-systems-in-short-691fc7d1fefe)
++ [A Hitchhiker’s Guide to Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 
 ## 比特币学习实践
 - [Ubuntu18.04编译比特币](https://blog.csdn.net/The_Reader/article/details/84842094)
