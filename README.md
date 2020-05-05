@@ -108,13 +108,14 @@
 
 
 ## blockchain2.0----Ethereum and smart contracts
-+ Ethereum whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
-+ Ethereum course (highly recommended - paid): https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/
-+ A good resource to learn dApp development by coding your own game: https://cryptozombies.io/
-+ A good grasp on concepts of Decentralised Applications: https://www.theschool.ai/courses/decentralized-application/
-+ Excellent course on Coursera: https://www.coursera.org/learn/blockchain-foundations-and-use-cases
-+ Best Handon course by DApp University (highly recommended) complete playlist: [Youtube](https://www.youtube.com/playlist?list=PLS5SEs8ZftgWFuKg2wbm_0GLV0Tiy1R-n)
-+ Course on Coursera : https://www.coursera.org/learn/blockchain-basics
++ [Remix-Ethereum IDE](http://remix.ethereum.org/)
++ [Ethereum whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
++ [Ethereum course (highly recommended - paid)](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
++ [A good resource to learn dApp development by coding your own game](https://cryptozombies.io/)
++ [A good grasp on concepts of Decentralised Applications](https://www.theschool.ai/courses/decentralized-application/)
++ [Excellent course on Coursera](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
++ [Best Handon course by DApp University (highly recommended) complete playlist: [Youtube]](https://www.youtube.com/playlist?list=PLS5SEs8ZftgWFuKg2wbm_0GLV0Tiy1R-n)
++ [Course on Coursera](https://www.coursera.org/learn/blockchain-basics)
 
 
 ## For setting up truffle for ethereum-test Blockchain developement
