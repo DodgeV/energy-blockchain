@@ -77,6 +77,10 @@
 ### Cryptography
 - [区块链中的密码学与安全技术](https://zhuanlan.zhihu.com/p/35649160)
 - [去中心化：可信与验证 | 非对称加密](https://zhuanlan.zhihu.com/p/39543108)
+- [Bitcoin and Cryptocurrency Technologies](https://piazza.com/princeton/spring2015/btctech/resources)  [对应教材](https://github.com/DodgeV/energy-blockchain/blob/master/%E4%B9%A6%E7%B1%8D/Draft%20testbook_Bitcoin_and_Cryptocurrency.pdf)
+- [数字加密货币--斯坦福](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=MGTECON%20515:%20Cryptocurrency&academicYear=20172018)
+- [计算机科学前沿课程：BTC和数字加密货币](https://www.cs.princeton.edu/~arvindn/teaching/fall-2014-bitcoin/)
+- [应用数字加密货币研究生课程](http://toc.cryptobook.us/)
 
 ## various consensus mechanism(algorithm)
 * [区块链共识算法开源大全](http://blog.hubwiz.com/2019/12/25/blockchain-consensus-libs/)
