@@ -12,6 +12,8 @@
 + What is Blockchain Technology: https://www.coindesk.com/information/what-is-blockchain-technology/
 + [北京大学肖臻区块链](https://www.bilibili.com/video/av37065233) [对应笔记](https://xuthus.cc/misc/blockchain-exploration.html)
 + [李永乐BTC](https://www.bilibili.com/video/BV1Bb411B7dq)
++ [区块链技术与应用--西南交通大学MOOC](http://www.icourse163.org/learn/SWJTU-1207109825)
++ [区块链与创新思维--南京大学MOOC](http://www.icourse163.org/learn/NJU-1449346161)
 + Blockchain 101 - A Visual Demo: [YouTube](https://www.youtube.com/watch?v=_160oMzblY8)
 + Blockchain basics: [Lynda](https://www.lynda.com/Data-Science-tutorials/Blockchain-Basics/574704-2.html)
 + Simply Explained Playlist by SAVJEE (highly recommended): [YouTube](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw)
