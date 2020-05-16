@@ -6,6 +6,7 @@
 
 ## dissertation for energy
 + [中国石油垄断现状及破解垄断之法](https://github.com/DodgeV/energy-blockchain/blob/master/thesis/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%9E%84%E6%96%AD%E7%8E%B0%E7%8A%B6%E5%8F%8A%E7%A0%B4%E8%A7%A3%E5%9E%84%E6%96%AD%E4%B9%8B%E6%B3%95.pdf)
++ [能源石化交易行业区块链应用白皮书](http://www.huanjing100.com/p-11103.html)
 
 
 ## some tutorials about Blockchain
