@@ -87,6 +87,7 @@
 - [应用数字加密货币研究生课程](http://toc.cryptobook.us/)
 
 ## various consensus mechanism(algorithm)
+* [扒开区块链美丽外表，三十种共识算法，直抵背后的灵魂](http://www.lianmenhu.com/blockchain-4817-1)
 * [区块链共识算法开源大全](http://blog.hubwiz.com/2019/12/25/blockchain-consensus-libs/)
 * 区块链就技术层面而言，共识（consensus）是核心。共识是为了防双花（double spending）
 * 除了区块链共识，现在还经常提到一个概念：DAG（Directed Acyclic Graph，有向无环图）
