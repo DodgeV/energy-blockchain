@@ -3,6 +3,7 @@
 + [VAKT](https://www.thoughtworks.com/cn/clients/vakt)
 + [Blockchain Demo](https://andersbrownworth.com/blockchain)
 + [浅谈区块链项目的估值模型](https://zhuanlan.zhihu.com/p/43585328)
++ [区块链系统评估方式1.0](https://www.jianshu.com/p/981854f4190f)&[METI的原文](https://www.useit.com.cn/thread-15088-1-1.html)
 
 ## dissertation for energy
 + [中国石油垄断现状及破解垄断之法](https://github.com/DodgeV/energy-blockchain/blob/master/thesis/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%9E%84%E6%96%AD%E7%8E%B0%E7%8A%B6%E5%8F%8A%E7%A0%B4%E8%A7%A3%E5%9E%84%E6%96%AD%E4%B9%8B%E6%B3%95.pdf)
