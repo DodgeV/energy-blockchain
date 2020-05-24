@@ -112,6 +112,7 @@
 + [A Hitchhiker’s Guide to Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 
 ## 比特币学习实践
+* [Naivecoin: a tutorial for building a cryptocurrency](https://lhartikk.github.io/)
 - [Ubuntu18.04编译比特币](https://blog.csdn.net/The_Reader/article/details/84842094)
 - [搭建比特币测试网络并用C++进行RPC调用实现转账](https://github.com/youngqqcn/QBlockChainNotes/tree/master/比特币/1-搭建比特币测试网络testnet.md)
 - [2-比特币全节点搭建](https://github.com/youngqqcn/QBlockChainNotes/tree/master/比特币/2-比特币全节点搭建.md)
