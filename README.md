@@ -16,6 +16,7 @@
 + [李永乐BTC](https://www.bilibili.com/video/BV1Bb411B7dq)
 + [区块链技术与应用--西南交通大学MOOC](http://www.icourse163.org/learn/SWJTU-1207109825)
 + [区块链与创新思维--南京大学MOOC](http://www.icourse163.org/learn/NJU-1449346161)
+* [Naivecoin: a tutorial for building a cryptocurrency](https://lhartikk.github.io/)
 + Blockchain 101 - A Visual Demo: [YouTube](https://www.youtube.com/watch?v=_160oMzblY8)
 + Blockchain basics: [Lynda](https://www.lynda.com/Data-Science-tutorials/Blockchain-Basics/574704-2.html)
 + Simply Explained Playlist by SAVJEE (highly recommended): [YouTube](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw)
@@ -112,7 +113,6 @@
 + [A Hitchhiker’s Guide to Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 
 ## 比特币学习实践
-* [Naivecoin: a tutorial for building a cryptocurrency](https://lhartikk.github.io/)
 - [Ubuntu18.04编译比特币](https://blog.csdn.net/The_Reader/article/details/84842094)
 - [搭建比特币测试网络并用C++进行RPC调用实现转账](https://github.com/youngqqcn/QBlockChainNotes/tree/master/比特币/1-搭建比特币测试网络testnet.md)
 - [2-比特币全节点搭建](https://github.com/youngqqcn/QBlockChainNotes/tree/master/比特币/2-比特币全节点搭建.md)
