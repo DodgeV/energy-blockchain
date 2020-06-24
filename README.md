@@ -8,7 +8,7 @@
 ## dissertation for energy
 + [中国石油垄断现状及破解垄断之法](https://github.com/DodgeV/energy-blockchain/blob/master/thesis/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%9E%84%E6%96%AD%E7%8E%B0%E7%8A%B6%E5%8F%8A%E7%A0%B4%E8%A7%A3%E5%9E%84%E6%96%AD%E4%B9%8B%E6%B3%95.pdf)
 + [能源石化交易行业区块链应用白皮书](https://github.com/DodgeV/energy-blockchain/blob/master/%E4%B9%A6%E7%B1%8D/%E8%83%BD%E6%BA%90%E7%9F%B3%E5%8C%96%E4%BA%A4%E6%98%93%E8%A1%8C%E4%B8%9A%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
-+ [2020极简核心论文指南](https://www.bilibili.com/video/BV1be411W7uD)&[对应讲义]()
++ [2020极简核心论文指南](https://www.bilibili.com/video/BV1be411W7uD)&[对应讲义](https://github.com/DodgeV/energy-blockchain/tree/master/%E4%B9%A6%E7%B1%8D/2020%E6%9E%81%E7%AE%80%E6%A0%B8%E5%BF%83%E8%AE%BA%E6%96%87%E6%8C%87%E5%8D%97--%E8%AE%B2%E4%B9%89)
 
 
 ## some tutorials about Blockchain
