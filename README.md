@@ -190,3 +190,4 @@ Code demonstrating how to handle the Ethereum Blockchain using its RPC API from 
 A tip before watching all the resources : Some of the above websites may need tools below to access
 * [zlnlsw205/www](https://github.com/zlnlsw205/www) 
 * [jdzs1/fq](https://github.com/jdzs1/fq)
+* [shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG)
