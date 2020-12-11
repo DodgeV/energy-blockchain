@@ -1,5 +1,7 @@
 # energy-blockchain
-+ ![去中心化](https://github.com/DodgeV/energy-blockchain/blob/master/timg.png)
+
+![去中心化](https://github.com/DodgeV/energy-blockchain/blob/master/timg.png)
+
 + [VAKT](https://www.thoughtworks.com/cn/clients/vakt)
 + [Blockchain Demo](https://andersbrownworth.com/blockchain)
 + [浅谈区块链项目的估值模型](https://zhuanlan.zhihu.com/p/43585328)
@@ -15,8 +17,13 @@
 ## dissertation for energy
 + [中国石油垄断现状及破解垄断之法](https://github.com/DodgeV/energy-blockchain/blob/master/thesis/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%9E%84%E6%96%AD%E7%8E%B0%E7%8A%B6%E5%8F%8A%E7%A0%B4%E8%A7%A3%E5%9E%84%E6%96%AD%E4%B9%8B%E6%B3%95.pdf)
 + [能源石化交易行业区块链应用白皮书](https://github.com/DodgeV/energy-blockchain/blob/master/%E4%B9%A6%E7%B1%8D/%E8%83%BD%E6%BA%90%E7%9F%B3%E5%8C%96%E4%BA%A4%E6%98%93%E8%A1%8C%E4%B8%9A%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
-+ [2020极简核心论文指南](https://www.bilibili.com/video/BV1be411W7uD)&[备用地址](https://www.bilibili.com/video/BV1b5411Y7QM)&[对应讲义](https://github.com/DodgeV/energy-blockchain/tree/master/%E4%B9%A6%E7%B1%8D/2020%E6%9E%81%E7%AE%80%E6%A0%B8%E5%BF%83%E8%AE%BA%E6%96%87%E6%8C%87%E5%8D%97--%E8%AE%B2%E4%B9%89)&[笔记](https://github.com/DodgeV/energy-blockchain/blob/master/sciencenote.md)
++ [第四届全国大学生能源经济学术创意大赛获奖作品精选（十五）--区块链技术下分布式光伏发电项目经济效益研究](https://mp.weixin.qq.com/s/3LLeIkorygQxT9gSPRt1_g)
 
+## Econometrics
++ [2020极简核心论文指南](https://www.bilibili.com/video/BV1be411W7uD)&[备用地址](https://www.bilibili.com/video/BV1b5411Y7QM)&[对应讲义](https://github.com/DodgeV/energy-blockchain/tree/master/%E4%B9%A6%E7%B1%8D/2020%E6%9E%81%E7%AE%80%E6%A0%B8%E5%BF%83%E8%AE%BA%E6%96%87%E6%8C%87%E5%8D%97--%E8%AE%B2%E4%B9%89)&[笔记](https://github.com/DodgeV/energy-blockchain/blob/master/sciencenote.md)
++ [双重差分法（DID）介绍](https://zhuanlan.zhihu.com/p/48952513) 
++ [DID的平行趋势检验步骤和程序再发一次, 此次附上例文参考! ](https://mp.weixin.qq.com/s/YOonyIzzOJJaPzxs7QzwQw)
++ [双重差分DID方法免费课程, 文章, 数据和代码全在这里, 优秀学人必须收藏学习！](https://mp.weixin.qq.com/s/4aE7ufdsb8eD_oan92yzog)
 
 ## some tutorials about Blockchain
 + What is Blockchain Technology: https://www.coindesk.com/information/what-is-blockchain-technology/
