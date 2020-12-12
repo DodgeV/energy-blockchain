@@ -21,6 +21,7 @@
 
 ## Econometrics
 + [2020极简核心论文指南](https://www.bilibili.com/video/BV1be411W7uD)&[备用地址](https://www.bilibili.com/video/BV1b5411Y7QM)&[对应讲义](https://github.com/DodgeV/energy-blockchain/tree/master/%E4%B9%A6%E7%B1%8D/2020%E6%9E%81%E7%AE%80%E6%A0%B8%E5%BF%83%E8%AE%BA%E6%96%87%E6%8C%87%E5%8D%97--%E8%AE%B2%E4%B9%89)&[笔记](https://github.com/DodgeV/energy-blockchain/blob/master/sciencenote.md)
++ [【论文写作】去口语化与精准表达，审稿人看了都流泪](https://www.bilibili.com/video/BV1R7411279A)
 + [双重差分法（DID）介绍](https://zhuanlan.zhihu.com/p/48952513) 
 + [DID的平行趋势检验步骤和程序再发一次, 此次附上例文参考! ](https://mp.weixin.qq.com/s/YOonyIzzOJJaPzxs7QzwQw)
 + [双重差分DID方法免费课程, 文章, 数据和代码全在这里, 优秀学人必须收藏学习！](https://mp.weixin.qq.com/s/4aE7ufdsb8eD_oan92yzog)
