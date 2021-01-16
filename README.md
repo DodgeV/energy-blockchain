@@ -22,6 +22,9 @@
 ## Econometrics
 + [2020极简核心论文指南](https://www.bilibili.com/video/BV1be411W7uD)&[备用地址](https://www.bilibili.com/video/BV1b5411Y7QM)&[对应讲义](https://github.com/DodgeV/energy-blockchain/tree/master/%E4%B9%A6%E7%B1%8D/2020%E6%9E%81%E7%AE%80%E6%A0%B8%E5%BF%83%E8%AE%BA%E6%96%87%E6%8C%87%E5%8D%97--%E8%AE%B2%E4%B9%89)&[笔记](https://github.com/DodgeV/energy-blockchain/blob/master/sciencenote.md)
 + [【论文写作】去口语化与精准表达，审稿人看了都流泪](https://www.bilibili.com/video/BV1R7411279A)
++ [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
++ [概率论与统计学（洪永淼 : 厦门大学）](https://www.bilibili.com/video/av60873757)
++ [时间序列计量经济学中的非参数分析 -（洪永淼 : 厦门大学）](https://www.bilibili.com/video/BV1dp4y1S7G1)
 ### video for DID
 + [宏观政策评估的方法和应用（上）](https://www.bilibili.com/video/BV1DD4y1U7FN)[下](https://www.bilibili.com/video/BV1PA411e7Zp)
 + [论文写作stata学习——双重差分模型DID--MOOC](https://www.bilibili.com/video/BV1WA411t7kb)
