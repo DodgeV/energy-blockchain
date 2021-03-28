@@ -27,6 +27,7 @@
 + [【希施玛大学】杨博士保姆级实证研究论文写作教程](https://www.bilibili.com/video/BV1zv411e7Eo)
 + [【论文写作】去口语化与精准表达，审稿人看了都流泪](https://www.bilibili.com/video/BV1R7411279A)
 + [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
++ [美国科罗拉多矿业学院 能源经济学前沿系列讲座 全28讲 主讲-Carol Dahl 视频教程](https://www.bilibili.com/video/BV1jx411h74Q)
 + [概率论与统计学（洪永淼 : 厦门大学）](https://www.bilibili.com/video/av60873757)
 + [时间序列计量经济学中的非参数分析 -（洪永淼 : 厦门大学）](https://www.bilibili.com/video/BV1dp4y1S7G1)
 + [厦门大学经济学院高级课程研修班申硕论文指导讲座 - 许文彬](https://www.bilibili.com/video/BV1gD4y1972x)
