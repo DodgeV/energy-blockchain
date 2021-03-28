@@ -24,6 +24,7 @@
 + [SCI新手必备课程](https://www.bilibili.com/video/BV1PZ4y1L7Xp)
 + [毕业论文排版](https://www.bilibili.com/video/BV1b5411Y7QM?p=85)
 + [如何写好科研论文](https://www.bilibili.com/video/BV1b5411Y7QM?p=122)
++ [【希施玛大学】杨博士保姆级实证研究论文写作教程](https://www.bilibili.com/video/BV1zv411e7Eo)
 + [【论文写作】去口语化与精准表达，审稿人看了都流泪](https://www.bilibili.com/video/BV1R7411279A)
 + [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
 + [概率论与统计学（洪永淼 : 厦门大学）](https://www.bilibili.com/video/av60873757)
