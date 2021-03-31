@@ -32,6 +32,9 @@
 + [时间序列计量经济学中的非参数分析 -（洪永淼 : 厦门大学）](https://www.bilibili.com/video/BV1dp4y1S7G1)
 + [厦门大学经济学院高级课程研修班申硕论文指导讲座 - 许文彬](https://www.bilibili.com/video/BV1gD4y1972x)
 + [现代微观计量 （茅家铭：厦门大学）](https://www.bilibili.com/video/BV1CE411y7h5)
+### article for DEA
++ [随机前沿分析和包络数据分析 SFA,DEA 及Stata操作](https://mp.weixin.qq.com/s/VwZWDzXZN6ZTnLivUZuxOQ)
+### [政策效应评估的四种方法（Policy evaluation）](https://mp.weixin.qq.com/s/wzuHXDmIVQAh8yEoMIRWjg)
 ### video for DID
 + [宏观政策评估的方法和应用（上）](https://www.bilibili.com/video/BV1DD4y1U7FN)[下](https://www.bilibili.com/video/BV1PA411e7Zp)
 + [论文写作stata学习——双重差分模型DID--MOOC](https://www.bilibili.com/video/BV1WA411t7kb)
