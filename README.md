@@ -13,6 +13,7 @@
 + [Loanscan提供去中心化贷款领域的数据](https://loanscan.io/loans#borrow-volume)
 + [福利 | 拿好这份史上最全的区块链开发/学习/工具资源大礼包，过个学习型周末吧！ ](https://mp.weixin.qq.com/s?__biz=MzU2MTE1NDk2Mg==&mid=2247487466&idx=1&sn=e4817cbf00705b15402140833a25ef85&chksm=fc7c5117cb0bd8010a272a4f8f3674b5418ac5e1e6720700abbc475b1178e521d3aa722299ef&mpshare=1&scene=23&srcid=10282v1XZKoNq6SluFh7sCRt&sharer_sharetime=1603875473411&sharer_shareid=c7f52e20c77e139ffd7dece2b64b3d17#rd)
 + [如何成为一名区块链工程师？ | 附学习资源 ](https://mp.weixin.qq.com/s?__biz=MzU2MTE1NDk2Mg==&mid=2247484485&idx=1&sn=71357349c7eeaf775f3d94226b0d5d40&chksm=fc7c5ab8cb0bd3ae998b54e4e3a70ac1243798212965c95597340d10fc4a708c579dc0f80d99&mpshare=1&scene=23&srcid=1028fhb9Rvk4oZOQJPCIxljf&sharer_sharetime=1603875550681&sharer_shareid=c7f52e20c77e139ffd7dece2b64b3d17#rd)
++ [Browse Subjects | Nature](https://www.nature.com/nature/browse-subjects)
 
 ## dissertation for energy
 + [中国石油垄断现状及破解垄断之法](https://github.com/DodgeV/energy-blockchain/blob/master/thesis/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%9E%84%E6%96%AD%E7%8E%B0%E7%8A%B6%E5%8F%8A%E7%A0%B4%E8%A7%A3%E5%9E%84%E6%96%AD%E4%B9%8B%E6%B3%95.pdf)
@@ -34,6 +35,8 @@
 + [现代微观计量 （茅家铭：厦门大学）](https://www.bilibili.com/video/BV1CE411y7h5)
 ### tools for dissertation
 + [论文检测查重助手-论文查重,论文免费查重软件,免费毕业论文查重](http://zw.iptcheck.com.cn/)
+### dissertation for Econometrics
++ [公共政策效果评估的计量经济学方法的适用对比和归纳](http://www.lunwenstudy.com/shuliangjj/135955.html)
 ### article for DEA
 + [随机前沿分析和包络数据分析 SFA,DEA 及Stata操作](https://mp.weixin.qq.com/s/VwZWDzXZN6ZTnLivUZuxOQ)
 ### [政策效应评估的四种方法（Policy evaluation）](https://mp.weixin.qq.com/s/wzuHXDmIVQAh8yEoMIRWjg)
