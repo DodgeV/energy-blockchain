@@ -1,0 +1,829 @@
+ Results from DEAP Version 2.1
+ 
+Instruction file = 123.ins     
+Data file          = 123.dta     
+ 
+ Input orientated DEA
+ 
+ Scale assumption: VRS
+ 
+ Slacks calculated using multi-stage method
+ 
+ 
+ EFFICIENCY SUMMARY:
+ 
+  firm  crste  vrste  scale
+ 
+    1  0.845  1.000  0.845 irs
+    2  0.953  1.000  0.953 irs
+    3  0.595  0.754  0.790 irs
+    4  0.642  0.891  0.721 irs
+    5  0.581  0.686  0.847 irs
+    6  0.622  0.674  0.923 irs
+    7  0.471  0.617  0.763 irs
+    8  0.426  0.553  0.769 irs
+    9  1.000  1.000  1.000  - 
+   10  0.735  0.885  0.830 drs
+   11  0.739  0.763  0.969 irs
+   12  0.471  0.561  0.840 irs
+   13  0.578  0.667  0.866 irs
+   14  0.445  0.622  0.716 irs
+   15  1.000  1.000  1.000  - 
+   16  0.873  0.986  0.885 irs
+   17  0.476  0.547  0.871 irs
+   18  0.460  0.542  0.849 irs
+   19  1.000  1.000  1.000  - 
+   20  0.407  0.598  0.681 irs
+   21  0.132  0.867  0.152 irs
+   22  0.359  0.511  0.702 irs
+   23  0.665  0.767  0.867 irs
+   24  0.435  0.877  0.495 irs
+   25  0.349  0.605  0.577 irs
+   26  0.013  1.000  0.013 irs
+   27  0.934  1.000  0.934 irs
+   28  0.478  0.918  0.520 irs
+   29  0.196  1.000  0.196 irs
+   30  0.261  0.941  0.278 irs
+   31  0.553  0.849  0.651 irs
+ 
+ mean  0.571  0.796  0.726
+
+Note: crste = technical efficiency from CRS DEA
+      vrste = technical efficiency from VRS DEA
+      scale = scale efficiency = crste/vrste
+
+
+Note also that all subsequent tables refer to VRS results
+ 
+ 
+ SUMMARY OF OUTPUT SLACKS:
+ 
+ firm  output:           1           2
+    1                0.000       0.000
+    2                0.000       0.000
+    3                0.000     388.308
+    4                0.000     675.621
+    5                0.000       0.000
+    6                0.000    1044.164
+    7                0.000     238.903
+    8                0.000       0.000
+    9                0.000       0.000
+   10                0.000     669.175
+   11                0.000     620.714
+   12                0.000     385.464
+   13                0.000     393.141
+   14              497.412       0.000
+   15                0.000       0.000
+   16             9070.939       0.000
+   17                0.000     446.863
+   18                0.000     617.088
+   19                0.000       0.000
+   20                0.000     207.057
+   21                0.000       0.542
+   22                0.000     240.566
+   23                0.000     259.725
+   24                0.000       0.000
+   25                0.000     152.126
+   26                0.000       0.000
+   27                0.000       0.000
+   28                0.000     294.010
+   29                0.000       0.000
+   30                0.000      84.475
+   31                0.000       0.000
+
+ mean              308.657     216.708
+ 
+ 
+ SUMMARY OF INPUT SLACKS:
+ 
+ firm  input:            1           2
+    1                0.000       0.000
+    2                0.000       0.000
+    3             1576.148       0.000
+    4                0.000       0.000
+    5                0.000       0.000
+    6                0.000       0.000
+    7                0.000       0.000
+    8                0.000       0.000
+    9                0.000       0.000
+   10                0.000     757.108
+   11                0.000       0.000
+   12                0.000       0.000
+   13                0.000       0.000
+   14              538.497       0.000
+   15                0.000       0.000
+   16             3568.419       0.000
+   17                0.000       0.000
+   18                0.000       0.000
+   19                0.000       0.000
+   20                0.000       0.000
+   21                0.000      22.562
+   22                0.000       0.000
+   23                0.000       0.000
+   24                0.000       0.000
+   25                0.000       0.000
+   26                0.000       0.000
+   27                0.000       0.000
+   28                0.000       0.000
+   29                0.000       0.000
+   30                0.000       0.000
+   31                0.000       0.000
+
+ mean              183.325      25.151
+ 
+ 
+ SUMMARY OF PEERS:
+ 
+  firm  peers:
+    1      1
+    2      2
+    3     15   29
+    4     15   26    2
+    5     26   27   15   29
+    6      2   15   26
+    7     15   26    2
+    8     26   15   27    2
+    9      9
+   10     15   19
+   11     19   15    9
+   12     15   26    2
+   13      9   15    2
+   14     15   29
+   15     15
+   16     15   29
+   17     15   26    2
+   18      2   15   26
+   19     19
+   20     15   29   26
+   21      1   26
+   22      9   26    2
+   23      2   15   26
+   24     15   27   26    2
+   25      9   26    2
+   26     26
+   27     27
+   28     15   26    2
+   29     29
+   30     26   15   29
+   31     15   27   26   29
+ 
+ 
+ SUMMARY OF PEER WEIGHTS:
+   (in same order as above)
+ 
+  firm  peer weights:
+    1   1.000
+    2   1.000
+    3   0.336 0.664
+    4   0.107 0.739 0.154
+    5   0.211 0.509 0.076 0.204
+    6   0.596 0.272 0.132
+    7   0.120 0.658 0.222
+    8   0.531 0.033 0.288 0.148
+    9   1.000
+   10   0.998 0.002
+   11   0.121 0.193 0.686
+   12   0.236 0.699 0.064
+   13   0.028 0.053 0.918
+   14   0.193 0.807
+   15   1.000
+   16   0.510 0.490
+   17   0.212 0.427 0.361
+   18   0.660 0.104 0.236
+   19   1.000
+   20   0.118 0.530 0.352
+   21   0.083 0.917
+   22   0.140 0.470 0.390
+   23   0.630 0.138 0.233
+   24   0.033 0.016 0.871 0.081
+   25   0.151 0.683 0.166
+   26   1.000
+   27   1.000
+   28   0.034 0.822 0.144
+   29   1.000
+   30   0.353 0.015 0.631
+   31   0.022 0.287 0.417 0.273
+ 
+ 
+ PEER COUNT SUMMARY:
+   (i.e., no. times each firm is a peer for another)
+ 
+  firm  peer count:
+    1       1
+    2      13
+    3       0
+    4       0
+    5       0
+    6       0
+    7       0
+    8       0
+    9       4
+   10       0
+   11       0
+   12       0
+   13       0
+   14       0
+   15      20
+   16       0
+   17       0
+   18       0
+   19       2
+   20       0
+   21       0
+   22       0
+   23       0
+   24       0
+   25       0
+   26      17
+   27       4
+   28       0
+   29       7
+   30       0
+   31       0
+ 
+ 
+ 
+ SUMMARY OF OUTPUT TARGETS:
+ 
+ firm  output:           1           2
+    1            18624.820    1254.780
+    2            27011.120    1992.760
+    3            45766.250    2949.168
+    4            18404.650    1223.531
+    5            19550.830    1682.550
+    6            52150.400    3505.744
+    7            21950.720    1469.003
+    8            13569.810    1150.210
+    9            34533.530    2415.200
+   10           132270.410    8503.235
+   11            61765.480    4006.584
+   12            33079.460    2144.234
+   13            32847.140    2352.591
+   14            27197.632    1756.660
+   15           132318.980    8507.730
+   16            68525.729    4410.820
+   17            37864.540    2527.523
+   18            31616.570    2202.148
+   19           103654.980    5854.930
+   20            16726.000    1081.057
+   21             1640.700     111.342
+   22            15417.070    1118.996
+   23            35251.840    2428.095
+   24             6878.400     477.330
+   25             9773.140     701.206
+   26               93.370       7.170
+   27            17763.000    1973.320
+   28             8443.650     580.720
+   29             2045.380     141.340
+   30             3374.490     223.585
+   31             8608.030     795.400
+ 
+ 
+ SUMMARY OF INPUT TARGETS:
+ 
+ firm  input:            1           2
+    1             1099.700     721.150
+    2             2749.210     398.860
+    3             5868.204     363.062
+    4             2546.460     242.445
+    5             3098.891     289.796
+    6             5944.979     479.891
+    7             2883.531     270.291
+    8             2150.223     251.492
+    9             1723.860     727.660
+   10            15492.018     830.579
+   11             4914.803     872.718
+   12             4278.883     308.957
+   13             3401.258     431.166
+   14             3800.149     263.102
+   15            15507.900     829.000
+   16             8403.011     485.583
+   17             4549.087     373.188
+   18             3575.138     378.990
+   19             6135.150    1761.110
+   20             2578.606     209.433
+   21              663.912     174.667
+   22             1607.423     316.135
+   23             4011.856     394.375
+   24             1323.053     173.531
+   25             1143.956     261.479
+   26              624.210     124.880
+   27             3109.860     342.400
+   28             1433.860     188.154
+   29              998.850     127.700
+   30             1091.317     137.572
+   31             1767.680     203.603
+ 
+ 
+ 
+ FIRM BY FIRM RESULTS:
+ 
+ 
+Results for firm:     1
+Technical efficiency = 1.000
+Scale efficiency     = 0.845  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       18624.820         0.000         0.000     18624.820
+ output     2        1254.780         0.000         0.000      1254.780
+ input      1        1099.700         0.000         0.000      1099.700
+ input      2         721.150         0.000         0.000       721.150
+ LISTING OF PEERS:
+  peer   lambda weight
+    1      1.000
+ 
+ 
+Results for firm:     2
+Technical efficiency = 1.000
+Scale efficiency     = 0.953  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       27011.120         0.000         0.000     27011.120
+ output     2        1992.760         0.000         0.000      1992.760
+ input      1        2749.210         0.000         0.000      2749.210
+ input      2         398.860         0.000         0.000       398.860
+ LISTING OF PEERS:
+  peer   lambda weight
+    2      1.000
+ 
+ 
+Results for firm:     3
+Technical efficiency = 0.754
+Scale efficiency     = 0.790  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       45766.250         0.000         0.000     45766.250
+ output     2        2560.860         0.000       388.308      2949.168
+ input      1        9879.000     -2434.648     -1576.148      5868.204
+ input      2         481.800      -118.738         0.000       363.062
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.336
+   29      0.664
+ 
+ 
+Results for firm:     4
+Technical efficiency = 0.891
+Scale efficiency     = 0.721  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       18404.650         0.000         0.000     18404.650
+ output     2         547.910         0.000       675.621      1223.531
+ input      1        2857.620      -311.160         0.000      2546.460
+ input      2         272.070       -29.625         0.000       242.445
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.107
+   26      0.739
+    2      0.154
+ 
+ 
+Results for firm:     5
+Technical efficiency = 0.686
+Scale efficiency     = 0.847  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       19550.830         0.000         0.000     19550.830
+ output     2        1682.550         0.000         0.000      1682.550
+ input      1        4516.010     -1417.119         0.000      3098.891
+ input      2         422.320      -132.524         0.000       289.796
+ LISTING OF PEERS:
+  peer   lambda weight
+   26      0.211
+   27      0.509
+   15      0.076
+   29      0.204
+ 
+ 
+Results for firm:     6
+Technical efficiency = 0.674
+Scale efficiency     = 0.923  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       52150.400         0.000         0.000     52150.400
+ output     2        2461.580         0.000      1044.164      3505.744
+ input      1        8822.380     -2877.401         0.000      5944.979
+ input      2         712.160      -232.269         0.000       479.891
+ LISTING OF PEERS:
+  peer   lambda weight
+    2      0.596
+   15      0.272
+   26      0.132
+ 
+ 
+Results for firm:     7
+Technical efficiency = 0.617
+Scale efficiency     = 0.763  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       21950.720         0.000         0.000     21950.720
+ output     2        1230.100         0.000       238.903      1469.003
+ input      1        4676.960     -1793.429         0.000      2883.531
+ input      2         438.400      -168.109         0.000       270.291
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.120
+   26      0.658
+    2      0.222
+ 
+ 
+Results for firm:     8
+Technical efficiency = 0.553
+Scale efficiency     = 0.769  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       13569.810         0.000         0.000     13569.810
+ output     2        1150.210         0.000         0.000      1150.210
+ input      1        3885.570     -1735.347         0.000      2150.223
+ input      2         454.460      -202.968         0.000       251.492
+ LISTING OF PEERS:
+  peer   lambda weight
+   26      0.531
+   15      0.033
+   27      0.288
+    2      0.148
+ 
+ 
+Results for firm:     9
+Technical efficiency = 1.000
+Scale efficiency     = 1.000  (crs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       34533.530         0.000         0.000     34533.530
+ output     2        2415.200         0.000         0.000      2415.200
+ input      1        1723.860         0.000         0.000      1723.860
+ input      2         727.660         0.000         0.000       727.660
+ LISTING OF PEERS:
+  peer   lambda weight
+    9      1.000
+ 
+ 
+Results for firm:    10
+Technical efficiency = 0.885
+Scale efficiency     = 0.830  (drs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1      132270.410         0.000         0.000    132270.410
+ output     2        7834.060         0.000       669.175      8503.235
+ input      1       17504.260     -2012.242         0.000     15492.018
+ input      2        1793.910      -206.223      -757.108       830.579
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.998
+   19      0.002
+ 
+ 
+Results for firm:    11
+Technical efficiency = 0.763
+Scale efficiency     = 0.969  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       61765.480         0.000         0.000     61765.480
+ output     2        3385.870         0.000       620.714      4006.584
+ input      1        6444.750     -1529.947         0.000      4914.803
+ input      2        1144.390      -271.672         0.000       872.718
+ LISTING OF PEERS:
+  peer   lambda weight
+   19      0.121
+   15      0.193
+    9      0.686
+ 
+ 
+Results for firm:    12
+Technical efficiency = 0.561
+Scale efficiency     = 0.840  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       33079.460         0.000         0.000     33079.460
+ output     2        1758.770         0.000       385.464      2144.234
+ input      1        7626.890     -3348.007         0.000      4278.883
+ input      2         550.700      -241.743         0.000       308.957
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.236
+   26      0.699
+    2      0.064
+ 
+ 
+Results for firm:    13
+Technical efficiency = 0.667
+Scale efficiency     = 0.866  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       32847.140         0.000         0.000     32847.140
+ output     2        1959.450         0.000       393.141      2352.591
+ input      1        5097.480     -1696.222         0.000      3401.258
+ input      2         646.190      -215.024         0.000       431.166
+ LISTING OF PEERS:
+  peer   lambda weight
+    9      0.028
+   15      0.053
+    2      0.918
+ 
+ 
+Results for firm:    14
+Technical efficiency = 0.622
+Scale efficiency     = 0.716  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       26700.220         0.000       497.412     27197.632
+ output     2        1756.660         0.000         0.000      1756.660
+ input      1        6978.890     -2640.244      -538.497      3800.149
+ input      2         423.210      -160.108         0.000       263.102
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.193
+   29      0.807
+ 
+ 
+Results for firm:    15
+Technical efficiency = 1.000
+Scale efficiency     = 1.000  (crs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1      132318.980         0.000         0.000    132318.980
+ output     2        8507.730         0.000         0.000      8507.730
+ input      1       15507.900         0.000         0.000     15507.900
+ input      2         829.000         0.000         0.000       829.000
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      1.000
+ 
+ 
+Results for firm:    16
+Technical efficiency = 0.986
+Scale efficiency     = 0.885  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       59454.790         0.000      9070.939     68525.729
+ output     2        4410.820         0.000         0.000      4410.820
+ input      1       12136.050      -164.620     -3568.419      8403.011
+ input      2         492.260        -6.677         0.000       485.583
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.510
+   29      0.490
+ 
+ 
+Results for firm:    17
+Technical efficiency = 0.547
+Scale efficiency     = 0.871  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       37864.540         0.000         0.000     37864.540
+ output     2        2080.660         0.000       446.863      2527.523
+ input      1        8322.960     -3773.873         0.000      4549.087
+ input      2         682.780      -309.592         0.000       373.188
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.212
+   26      0.427
+    2      0.361
+ 
+ 
+Results for firm:    18
+Technical efficiency = 0.542
+Scale efficiency     = 0.849  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       31616.570         0.000         0.000     31616.570
+ output     2        1585.060         0.000       617.088      2202.148
+ input      1        6593.150     -3018.012         0.000      3575.138
+ input      2         698.920      -319.930         0.000       378.990
+ LISTING OF PEERS:
+  peer   lambda weight
+    2      0.660
+   15      0.104
+   26      0.236
+ 
+ 
+Results for firm:    19
+Technical efficiency = 1.000
+Scale efficiency     = 1.000  (crs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1      103654.980         0.000         0.000    103654.980
+ output     2        5854.930         0.000         0.000      5854.930
+ input      1        6135.150         0.000         0.000      6135.150
+ input      2        1761.110         0.000         0.000      1761.110
+ LISTING OF PEERS:
+  peer   lambda weight
+   19      1.000
+ 
+ 
+Results for firm:    20
+Technical efficiency = 0.598
+Scale efficiency     = 0.681  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       16726.000         0.000         0.000     16726.000
+ output     2         874.000         0.000       207.057      1081.057
+ input      1        4310.300     -1731.694         0.000      2578.606
+ input      2         350.080      -140.647         0.000       209.433
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.118
+   29      0.530
+   26      0.352
+ 
+ 
+Results for firm:    21
+Technical efficiency = 0.867
+Scale efficiency     = 0.152  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1        1640.700         0.000         0.000      1640.700
+ output     2         110.800         0.000         0.542       111.342
+ input      1         765.810      -101.898         0.000       663.912
+ input      2         227.500       -30.271       -22.562       174.667
+ LISTING OF PEERS:
+  peer   lambda weight
+    1      0.083
+   26      0.917
+ 
+ 
+Results for firm:    22
+Technical efficiency = 0.511
+Scale efficiency     = 0.702  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       15417.070         0.000         0.000     15417.070
+ output     2         878.430         0.000       240.566      1118.996
+ input      1        3147.170     -1539.747         0.000      1607.423
+ input      2         618.960      -302.825         0.000       316.135
+ LISTING OF PEERS:
+  peer   lambda weight
+    9      0.140
+   26      0.470
+    2      0.390
+ 
+ 
+Results for firm:    23
+Technical efficiency = 0.767
+Scale efficiency     = 0.867  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       35251.840         0.000         0.000     35251.840
+ output     2        2168.370         0.000       259.725      2428.095
+ input      1        5228.870     -1217.014         0.000      4011.856
+ input      2         514.010      -119.635         0.000       394.375
+ LISTING OF PEERS:
+  peer   lambda weight
+    2      0.630
+   15      0.138
+   26      0.233
+ 
+ 
+Results for firm:    24
+Technical efficiency = 0.877
+Scale efficiency     = 0.495  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1        6878.400         0.000         0.000      6878.400
+ output     2         477.330         0.000         0.000       477.330
+ input      1        1508.160      -185.107         0.000      1323.053
+ input      2         197.810       -24.279         0.000       173.531
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.033
+   27      0.016
+   26      0.871
+    2      0.081
+ 
+ 
+Results for firm:    25
+Technical efficiency = 0.605
+Scale efficiency     = 0.577  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1        9773.140         0.000         0.000      9773.140
+ output     2         549.080         0.000       152.126       701.206
+ input      1        1891.420      -747.464         0.000      1143.956
+ input      2         432.330      -170.851         0.000       261.479
+ LISTING OF PEERS:
+  peer   lambda weight
+    9      0.151
+   26      0.683
+    2      0.166
+ 
+ 
+Results for firm:    26
+Technical efficiency = 1.000
+Scale efficiency     = 0.013  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1          93.370         0.000         0.000        93.370
+ output     2           7.170         0.000         0.000         7.170
+ input      1         624.210         0.000         0.000       624.210
+ input      2         124.880         0.000         0.000       124.880
+ LISTING OF PEERS:
+  peer   lambda weight
+   26      1.000
+ 
+ 
+Results for firm:    27
+Technical efficiency = 1.000
+Scale efficiency     = 0.934  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1       17763.000         0.000         0.000     17763.000
+ output     2        1973.320         0.000         0.000      1973.320
+ input      1        3109.860         0.000         0.000      3109.860
+ input      2         342.400         0.000         0.000       342.400
+ LISTING OF PEERS:
+  peer   lambda weight
+   27      1.000
+ 
+ 
+Results for firm:    28
+Technical efficiency = 0.918
+Scale efficiency     = 0.520  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1        8443.650         0.000         0.000      8443.650
+ output     2         286.710         0.000       294.010       580.720
+ input      1        1561.780      -127.920         0.000      1433.860
+ input      2         204.940       -16.786         0.000       188.154
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.034
+   26      0.822
+    2      0.144
+ 
+ 
+Results for firm:    29
+Technical efficiency = 1.000
+Scale efficiency     = 0.196  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1        2045.380         0.000         0.000      2045.380
+ output     2         141.340         0.000         0.000       141.340
+ input      1         998.850         0.000         0.000       998.850
+ input      2         127.700         0.000         0.000       127.700
+ LISTING OF PEERS:
+  peer   lambda weight
+   29      1.000
+ 
+ 
+Results for firm:    30
+Technical efficiency = 0.941
+Scale efficiency     = 0.278  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1        3374.490         0.000         0.000      3374.490
+ output     2         139.110         0.000        84.475       223.585
+ input      1        1160.080       -68.763         0.000      1091.317
+ input      2         146.240        -8.668         0.000       137.572
+ LISTING OF PEERS:
+  peer   lambda weight
+   26      0.353
+   15      0.015
+   29      0.631
+ 
+ 
+Results for firm:    31
+Technical efficiency = 0.849
+Scale efficiency     = 0.651  (irs)
+ PROJECTION SUMMARY:
+  variable           original        radial         slack     projected
+                        value      movement      movement         value
+ output     1        8608.030         0.000         0.000      8608.030
+ output     2         795.400         0.000         0.000       795.400
+ input      1        2080.900      -313.220         0.000      1767.680
+ input      2         239.680       -36.077         0.000       203.603
+ LISTING OF PEERS:
+  peer   lambda weight
+   15      0.022
+   27      0.287
+   26      0.417
+   29      0.273

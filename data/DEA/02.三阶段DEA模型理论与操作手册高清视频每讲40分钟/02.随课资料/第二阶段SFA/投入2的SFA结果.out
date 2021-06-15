@@ -1,0 +1,156 @@
+
+Output from the program FRONTIER (Version 4.1c)
+
+
+instruction file = eg1.ins     
+data file =        eg1.dta     
+
+
+ Error Components Frontier (see B&C 1992)
+ The model is a cost function
+ The dependent variable is not logged
+
+
+the ols estimates are :
+
+                 coefficient     standard-error    t-ratio
+
+  beta 0         0.18006889E+02  0.10130704E+03  0.17774569E+00
+  beta 1         0.25200530E-02  0.23816321E-02  0.10581202E+01
+  beta 2         0.24997715E+01  0.11958923E+01  0.20902982E+01
+  beta 3        -0.19503979E+00  0.95628991E-01 -0.20395467E+01
+  sigma-squared  0.31677748E+05
+
+log likelihood function =  -0.20247799E+03
+
+the estimates after the grid search were :
+
+  beta 0        -0.17439269E+03
+  beta 1         0.25200530E-02
+  beta 2         0.24997715E+01
+  beta 3        -0.19503979E+00
+  sigma-squared  0.64607895E+05
+  gamma          0.90000000E+00
+   mu is restricted to be zero
+   eta is restricted to be zero
+ 
+ 
+ iteration =     0  func evals =     20  llf = -0.20034621E+03
+    -0.17439269E+03 0.25200530E-02 0.24997715E+01-0.19503979E+00 0.64607895E+05
+     0.90000000E+00
+ gradient step
+ iteration =     5  func evals =     66  llf = -0.19971817E+03
+    -0.17437417E+03 0.28854661E-02 0.17910878E+01-0.18232340E+00 0.64607895E+05
+     0.95075840E+00
+ iteration =    10  func evals =    184  llf = -0.19950930E+03
+    -0.15233711E+03 0.27727153E-02 0.18501072E+01-0.21389167E+00 0.64607920E+05
+     0.96228710E+00
+ iteration =    15  func evals =    309  llf = -0.19914601E+03
+    -0.11462543E+03 0.23793776E-02 0.16836137E+01-0.21557030E+00 0.64607961E+05
+     0.96208708E+00
+ iteration =    20  func evals =    434  llf = -0.19819913E+03
+    -0.12098903E+02-0.22363693E-04 0.13056082E+01-0.14723239E+00 0.64608073E+05
+     0.98585827E+00
+ iteration =    25  func evals =    525  llf = -0.19669769E+03
+     0.55716725E+02-0.21403308E-02 0.11613626E+01-0.87710643E-01 0.64608147E+05
+     0.99999999E+00
+ iteration =    30  func evals =    698  llf = -0.19658770E+03
+     0.56041622E+02-0.21278350E-02 0.11613600E+01-0.87478237E-01 0.64608147E+05
+     0.99999999E+00
+ iteration =    31  func evals =    705  llf = -0.19658770E+03
+     0.56041634E+02-0.21278343E-02 0.11613600E+01-0.87478234E-01 0.64608147E+05
+     0.99999999E+00
+
+
+the final mle estimates are :
+
+                 coefficient     standard-error    t-ratio
+
+  beta 0         0.56041634E+02  0.69803739E+02  0.80284574E+00
+  beta 1        -0.21278343E-02  0.27722373E-02 -0.76755128E+00
+  beta 2         0.11613600E+01  0.29948436E+00  0.38778652E+01
+  beta 3        -0.87478234E-01  0.67220644E-01 -0.13013596E+01
+  sigma-squared  0.64608147E+05  0.98582087E+00  0.65537410E+05
+  gamma          0.99999999E+00  0.70604065E-04  0.14163490E+05
+   mu is restricted to be zero
+   eta is restricted to be zero
+
+log likelihood function =  -0.19658770E+03
+
+LR test of the one-sided error =   0.11780580E+02
+with number of restrictions = 1
+ [note that this statistic has a mixed chi-square distribution]
+
+number of iterations =     31
+
+(maximum number of iterations set at :   100)
+
+number of cross-sections =     31
+
+number of time periods =      1
+
+total number of observations =     31
+
+thus there are:      0  obsns not in the panel
+
+
+covariance matrix :
+
+  0.48725619E+04  0.77598889E+00 -0.65029359E+01 -0.31955838E+02 -0.29440544E+02
+  0.47489819E-02
+  0.77598889E+00  0.76852996E-05 -0.19793629E-04  0.67842389E-03  0.81461745E-03
+  0.32244532E-06
+ -0.65029359E+01 -0.19793629E-04  0.89690880E-01 -0.54527527E-03 -0.64985989E-02
+  0.67971759E-07
+ -0.31955838E+02  0.67842389E-03 -0.54527527E-03  0.45186150E-02 -0.26480564E-01
+  0.17623254E-05
+ -0.29440544E+02  0.81461745E-03 -0.64985989E-02 -0.26480564E-01  0.97184280E+00
+  0.61396019E-06
+  0.47489819E-02  0.32244532E-06  0.67971759E-07  0.17623254E-05  0.61396019E-06
+  0.49849340E-08
+
+
+
+cost efficiency estimates :
+
+
+     firm             eff.-est.
+
+       1           0.10000000E+01
+       2           0.10000000E+01
+       3           0.12150020E+02
+       4           0.35558438E+01
+       5           0.10000000E+01
+       6           0.10000000E+01
+       7           0.10000000E+01
+       8           0.54091472E+02
+       9           0.10000000E+01
+      10           0.10000000E+01
+      11           0.10000000E+01
+      12           0.78534359E+01
+      13           0.10000000E+01
+      14           0.19044552E+02
+      15           0.10000000E+01
+      16           0.27513756E+01
+      17           0.51336137E+02
+      18           0.19656177E+02
+      19           0.10000000E+01
+      20           0.12721108E+02
+      21           0.10000000E+01
+      22           0.10000000E+01
+      23           0.35650449E+01
+      24           0.21852719E+01
+      25           0.73641375E+01
+      26           0.10000000E+01
+      27           0.37205167E+01
+      28           0.25064741E+01
+      29           0.10000000E+01
+      30           0.10000000E+01
+      31           0.23090111E+02
+
+
+ mean efficiency =   0.77932799E+01
+
+
+
+
