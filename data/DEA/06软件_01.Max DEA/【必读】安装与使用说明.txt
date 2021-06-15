@@ -1,0 +1,1 @@
+MaxDea软件需要ACCESS数据库支持，仅支持ACCESS32位，如果电脑中ACCESS版本太高或者是64位请安装文件夹中ACCESS即可。
