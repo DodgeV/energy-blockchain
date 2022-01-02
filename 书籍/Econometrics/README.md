@@ -1,0 +1,1 @@
+- [陈强教授的计量经济学及Stata主页](http://www.econometrics-stata.com/)
