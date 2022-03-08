@@ -35,11 +35,14 @@
 + [现代微观计量 （茅家铭：厦门大学）](https://www.bilibili.com/video/BV1CE411y7h5)
 ### tools for dissertation
 + [论文检测查重助手-论文查重,论文免费查重软件,免费毕业论文查重](http://zw.iptcheck.com.cn/)
-### dissertation for Econometrics
-+ [公共政策效果评估的计量经济学方法的适用对比和归纳](http://www.lunwenstudy.com/shuliangjj/135955.html)
 ### article for DEA
 + [随机前沿分析和包络数据分析 SFA,DEA 及Stata操作](https://mp.weixin.qq.com/s/VwZWDzXZN6ZTnLivUZuxOQ)
-### [政策效应评估的四种方法（Policy evaluation）](https://mp.weixin.qq.com/s/wzuHXDmIVQAh8yEoMIRWjg)
++ [Stata:数据包络分析(DEA)简明教程](https://zhuanlan.zhihu.com/p/130289495)
+### video for DEA
++ [三阶段DEA](https://www.bilibili.com/video/BV1F4411n75p)
+### Policy evaluation
++ [政策效应评估的四种方法](https://mp.weixin.qq.com/s/wzuHXDmIVQAh8yEoMIRWjg)
++ [公共政策效果评估的计量经济学方法的适用对比和归纳](http://www.lunwenstudy.com/shuliangjj/135955.html)
 ### video for DID
 + [宏观政策评估的方法和应用（上）](https://www.bilibili.com/video/BV1DD4y1U7FN)[下](https://www.bilibili.com/video/BV1PA411e7Zp)
 + [论文写作stata学习——双重差分模型DID--MOOC](https://www.bilibili.com/video/BV1WA411t7kb)
