@@ -20,24 +20,29 @@
 + [能源石化交易行业区块链应用白皮书](https://github.com/DodgeV/energy-blockchain/blob/master/%E4%B9%A6%E7%B1%8D/%E8%83%BD%E6%BA%90%E7%9F%B3%E5%8C%96%E4%BA%A4%E6%98%93%E8%A1%8C%E4%B8%9A%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 + [第四届全国大学生能源经济学术创意大赛获奖作品精选（十五）--区块链技术下分布式光伏发电项目经济效益研究](https://mp.weixin.qq.com/s/3LLeIkorygQxT9gSPRt1_g)
 
-## Econometrics
-+ [2020极简核心论文指南](https://www.bilibili.com/video/BV1be411W7uD)&[备用地址](https://www.bilibili.com/video/BV1b5411Y7QM)&[对应讲义](https://github.com/DodgeV/energy-blockchain/tree/master/%E4%B9%A6%E7%B1%8D/2020%E6%9E%81%E7%AE%80%E6%A0%B8%E5%BF%83%E8%AE%BA%E6%96%87%E6%8C%87%E5%8D%97--%E8%AE%B2%E4%B9%89)&[笔记](https://github.com/DodgeV/energy-blockchain/blob/master/sciencenote.md)
-+ [SCI新手必备课程](https://www.bilibili.com/video/BV1PZ4y1L7Xp)
-+ [毕业论文排版](https://www.bilibili.com/video/BV1b5411Y7QM?p=85)
-+ [如何写好科研论文](https://www.bilibili.com/video/BV1b5411Y7QM?p=122)
-+ [【希施玛大学】杨博士保姆级实证研究论文写作教程](https://www.bilibili.com/video/BV1zv411e7Eo)
-+ [【论文写作】去口语化与精准表达，审稿人看了都流泪](https://www.bilibili.com/video/BV1R7411279A)
+## Econometrics & paper
 + [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
 + [美国科罗拉多矿业学院 能源经济学前沿系列讲座 全28讲 主讲-Carol Dahl 视频教程](https://www.bilibili.com/video/BV1jx411h74Q)
 + [概率论与统计学（洪永淼 : 厦门大学）](https://www.bilibili.com/video/av60873757)
 + [时间序列计量经济学中的非参数分析 -（洪永淼 : 厦门大学）](https://www.bilibili.com/video/BV1dp4y1S7G1)
 + [厦门大学经济学院高级课程研修班申硕论文指导讲座 - 许文彬](https://www.bilibili.com/video/BV1gD4y1972x)
 + [现代微观计量 （茅家铭：厦门大学）](https://www.bilibili.com/video/BV1CE411y7h5)
+### how to write a paper
++ [本科毕业论文-学术堂](http://www.xueshutang.com/biyelunwen/)
++ [4法有效降重](http://www.xueshutang.com/zixun/173105.html)
++ [2020极简核心论文指南](https://www.bilibili.com/video/BV1be411W7uD)&[备用地址](https://www.bilibili.com/video/BV1b5411Y7QM)&[对应讲义](https://github.com/DodgeV/energy-blockchain/tree/master/%E4%B9%A6%E7%B1%8D/2020%E6%9E%81%E7%AE%80%E6%A0%B8%E5%BF%83%E8%AE%BA%E6%96%87%E6%8C%87%E5%8D%97--%E8%AE%B2%E4%B9%89)&[笔记](https://github.com/DodgeV/energy-blockchain/blob/master/sciencenote.md)
++ [SCI新手必备课程](https://www.bilibili.com/video/BV1PZ4y1L7Xp)
++ [毕业论文排版](https://www.bilibili.com/video/BV1b5411Y7QM?p=85)
++ [如何写好科研论文](https://www.bilibili.com/video/BV1b5411Y7QM?p=122)
++ [【希施玛大学】杨博士保姆级实证研究论文写作教程](https://www.bilibili.com/video/BV1zv411e7Eo)
++ [【论文写作】去口语化与精准表达，审稿人看了都流泪](https://www.bilibili.com/video/BV1R7411279A)
 ### tools for dissertation
 + [论文检测查重助手-论文查重,论文免费查重软件,免费毕业论文查重](http://zw.iptcheck.com.cn/)
 ### article for DEA
 + [随机前沿分析和包络数据分析 SFA,DEA 及Stata操作](https://mp.weixin.qq.com/s/VwZWDzXZN6ZTnLivUZuxOQ)
 + [Stata:数据包络分析(DEA)简明教程](https://zhuanlan.zhihu.com/p/130289495)
++ [dea测算全要素能源效率](https://bbs.pinggu.org/thread-862495-1-1.html)
++ [怎么计算能源效率](https://bbs.pinggu.org/thread-985933-1-1.html)
 ### video for DEA
 + [三阶段DEA](https://www.bilibili.com/video/BV1F4411n75p)
 ### Policy evaluation
