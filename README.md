@@ -41,6 +41,7 @@
 ### article for DEA
 + [随机前沿分析和包络数据分析 SFA,DEA 及Stata操作](https://mp.weixin.qq.com/s/VwZWDzXZN6ZTnLivUZuxOQ)
 + [Stata:数据包络分析(DEA)简明教程](https://zhuanlan.zhihu.com/p/130289495)
++ [三阶段DEA的思路](https://bbs.pinggu.org/thread-3873827-1-1.html)
 + [dea测算全要素能源效率](https://bbs.pinggu.org/thread-862495-1-1.html)
 + [怎么计算能源效率](https://bbs.pinggu.org/thread-985933-1-1.html)
 ### video for DEA
