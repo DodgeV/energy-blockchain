@@ -58,6 +58,9 @@
 + [双重差分法（DID）介绍](https://zhuanlan.zhihu.com/p/48952513) 
 + [DID的平行趋势检验步骤和程序再发一次, 此次附上例文参考! ](https://mp.weixin.qq.com/s/YOonyIzzOJJaPzxs7QzwQw)
 + [双重差分DID方法免费课程, 文章, 数据和代码全在这里, 优秀学人必须收藏学习！](https://mp.weixin.qq.com/s/4aE7ufdsb8eD_oan92yzog)
++ [stata平行趋势检验](https://bbs.pinggu.org/thread-7943881-1-1.html)
++ [Stata：多期倍分法 (DID) 详解及其图示](https://www.lianxh.cn/news/439e934fd68c9.html)
++ [Stata多期DID的平行趋势检验](https://www.jianshu.com/p/fb88cdfdf9f7)
 
 ## some tutorials about Blockchain
 + What is Blockchain Technology: https://www.coindesk.com/information/what-is-blockchain-technology/
