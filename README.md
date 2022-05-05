@@ -44,6 +44,10 @@
 + [三阶段DEA的思路](https://bbs.pinggu.org/thread-3873827-1-1.html)
 + [dea测算全要素能源效率](https://bbs.pinggu.org/thread-862495-1-1.html)
 + [怎么计算能源效率](https://bbs.pinggu.org/thread-985933-1-1.html)
++ [能源效率相关论文](https://kns.cnki.net/kcms/detail/knetsearch.aspx?sfield=kw&skey=%E8%83%BD%E6%BA%90%E6%95%88%E7%8E%87)
++ [全要素能源效率相关帖子](https://s.pinggu.org/search.php?mod=forum&searchid=50078235&orderby=lastpost&ascdesc=desc&searchsubmit=yes&kw=%C8%AB%D2%AA%CB%D8%C4%DC%D4%B4%D0%A7%C2%CA)
++ [能源效率相关帖子](https://bbs.pinggu.org/t/52206_0_7.html)
++ [数据缺失如何处理？](https://bbs.pinggu.org/t/33842.html)
 ### video for DEA
 + [三阶段DEA](https://www.bilibili.com/video/BV1F4411n75p)
 ### Policy evaluation
