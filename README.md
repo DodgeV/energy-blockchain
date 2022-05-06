@@ -19,6 +19,8 @@
 + [中国石油垄断现状及破解垄断之法](https://github.com/DodgeV/energy-blockchain/blob/master/thesis/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%9E%84%E6%96%AD%E7%8E%B0%E7%8A%B6%E5%8F%8A%E7%A0%B4%E8%A7%A3%E5%9E%84%E6%96%AD%E4%B9%8B%E6%B3%95.pdf)
 + [能源石化交易行业区块链应用白皮书](https://github.com/DodgeV/energy-blockchain/blob/master/%E4%B9%A6%E7%B1%8D/%E8%83%BD%E6%BA%90%E7%9F%B3%E5%8C%96%E4%BA%A4%E6%98%93%E8%A1%8C%E4%B8%9A%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 + [第四届全国大学生能源经济学术创意大赛获奖作品精选（十五）--区块链技术下分布式光伏发电项目经济效益研究](https://mp.weixin.qq.com/s/3LLeIkorygQxT9gSPRt1_g)
++ [发展改革委关于开展第三批国家低碳城市试点工作的通知 ](http://www.gov.cn/xinwen/2017-01/24/content_5162933.htm)
++ [国家发展改革委关于开展低碳省区和低碳城市试点工作的通知【首批】](http://www.gov.cn/zwgk/2010-08/10/content_1675733.htm)
 
 ## Econometrics & paper
 + [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
@@ -60,11 +62,16 @@
 + [双重差分法的原理及stata操作](https://www.bilibili.com/video/BV1C5411x7tf)
 ### article for DID
 + [双重差分法（DID）介绍](https://zhuanlan.zhihu.com/p/48952513) 
++ [双重差分模型stata简述](https://www.jianshu.com/p/7faf1684ef1f)
 + [DID的平行趋势检验步骤和程序再发一次, 此次附上例文参考! ](https://mp.weixin.qq.com/s/YOonyIzzOJJaPzxs7QzwQw)
 + [双重差分DID方法免费课程, 文章, 数据和代码全在这里, 优秀学人必须收藏学习！](https://mp.weixin.qq.com/s/4aE7ufdsb8eD_oan92yzog)
 + [stata平行趋势检验](https://bbs.pinggu.org/thread-7943881-1-1.html)
 + [Stata：多期倍分法 (DID) 详解及其图示](https://www.lianxh.cn/news/439e934fd68c9.html)
 + [Stata多期DID的平行趋势检验](https://www.jianshu.com/p/fb88cdfdf9f7)
++ [DID安慰剂检验](https://zhuanlan.zhihu.com/p/138859432)
++ [评估政策影响没有对照组数据的问题](http://www.360doc.com/content/20/0407/12/69408913_904390421.shtml)
++ [DID稳健性检验问题](http://www.360doc.com/content/21/1119/20/69408913_1005010404.shtml)
++ [缩尾1%](https://www.zhihu.com/question/302508062/answer/533404864)
 
 ## some tutorials about Blockchain
 + What is Blockchain Technology: https://www.coindesk.com/information/what-is-blockchain-technology/
