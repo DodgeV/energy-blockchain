@@ -65,6 +65,7 @@
 ### article for DID
 + [双重差分法（DID）介绍](https://zhuanlan.zhihu.com/p/48952513) 
 + [双重差分模型stata简述](https://www.jianshu.com/p/7faf1684ef1f)
++ [ DID双重差分必须加时间固定效应吗 ](https://bbs.pinggu.org/forum.php?mod=viewthread&tid=10622135&page=1&mobile=no&ivk_sa=1024320u)
 + [DID的平行趋势检验步骤和程序再发一次, 此次附上例文参考! ](https://mp.weixin.qq.com/s/YOonyIzzOJJaPzxs7QzwQw)
 + [DID与多期DID的平行趋势检验](https://zhuanlan.zhihu.com/p/387732407)
 + [双重差分DID方法免费课程, 文章, 数据和代码全在这里, 优秀学人必须收藏学习！](https://mp.weixin.qq.com/s/4aE7ufdsb8eD_oan92yzog)
