@@ -43,6 +43,8 @@
 ### article for DEA
 + [随机前沿分析和包络数据分析 SFA,DEA 及Stata操作](https://mp.weixin.qq.com/s/VwZWDzXZN6ZTnLivUZuxOQ)
 + [Stata:数据包络分析(DEA)简明教程](https://zhuanlan.zhihu.com/p/130289495)
++ [Stata: 数据包络分析 (DEA) 简明教程](https://www.lianxh.cn/news/6ce6a8adb0c89.html)
++ [数据包络分析-CCR/BCC](https://wenku.baidu.com/view/134536fcd25abe23482fb4daa58da0116c171fbb.html)
 + [三阶段DEA的思路](https://bbs.pinggu.org/thread-3873827-1-1.html)
 + [dea测算全要素能源效率](https://bbs.pinggu.org/thread-862495-1-1.html)
 + [怎么计算能源效率](https://bbs.pinggu.org/thread-985933-1-1.html)
@@ -64,6 +66,7 @@
 + [双重差分法（DID）介绍](https://zhuanlan.zhihu.com/p/48952513) 
 + [双重差分模型stata简述](https://www.jianshu.com/p/7faf1684ef1f)
 + [DID的平行趋势检验步骤和程序再发一次, 此次附上例文参考! ](https://mp.weixin.qq.com/s/YOonyIzzOJJaPzxs7QzwQw)
++ [DID与多期DID的平行趋势检验](https://zhuanlan.zhihu.com/p/387732407)
 + [双重差分DID方法免费课程, 文章, 数据和代码全在这里, 优秀学人必须收藏学习！](https://mp.weixin.qq.com/s/4aE7ufdsb8eD_oan92yzog)
 + [stata平行趋势检验](https://bbs.pinggu.org/thread-7943881-1-1.html)
 + [Stata：多期倍分法 (DID) 详解及其图示](https://www.lianxh.cn/news/439e934fd68c9.html)
