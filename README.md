@@ -15,12 +15,13 @@
 + [如何成为一名区块链工程师？ | 附学习资源 ](https://mp.weixin.qq.com/s?__biz=MzU2MTE1NDk2Mg==&mid=2247484485&idx=1&sn=71357349c7eeaf775f3d94226b0d5d40&chksm=fc7c5ab8cb0bd3ae998b54e4e3a70ac1243798212965c95597340d10fc4a708c579dc0f80d99&mpshare=1&scene=23&srcid=1028fhb9Rvk4oZOQJPCIxljf&sharer_sharetime=1603875550681&sharer_shareid=c7f52e20c77e139ffd7dece2b64b3d17#rd)
 + [Browse Subjects | Nature](https://www.nature.com/nature/browse-subjects)
 
-## dissertation for energy
+## policy dissertation for energy
 + [中国石油垄断现状及破解垄断之法](https://github.com/DodgeV/energy-blockchain/blob/master/thesis/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%9E%84%E6%96%AD%E7%8E%B0%E7%8A%B6%E5%8F%8A%E7%A0%B4%E8%A7%A3%E5%9E%84%E6%96%AD%E4%B9%8B%E6%B3%95.pdf)
 + [能源石化交易行业区块链应用白皮书](https://github.com/DodgeV/energy-blockchain/blob/master/%E4%B9%A6%E7%B1%8D/%E8%83%BD%E6%BA%90%E7%9F%B3%E5%8C%96%E4%BA%A4%E6%98%93%E8%A1%8C%E4%B8%9A%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 + [第四届全国大学生能源经济学术创意大赛获奖作品精选（十五）--区块链技术下分布式光伏发电项目经济效益研究](https://mp.weixin.qq.com/s/3LLeIkorygQxT9gSPRt1_g)
 + [发展改革委关于开展第三批国家低碳城市试点工作的通知 ](http://www.gov.cn/xinwen/2017-01/24/content_5162933.htm)
 + [国家发展改革委关于开展低碳省区和低碳城市试点工作的通知【首批】](http://www.gov.cn/zwgk/2010-08/10/content_1675733.htm)
++ [国务院关于印发全国资源型城市可持续发展规划（2013-2020年）的通知](http://www.gov.cn/zfwj/2013-12/03/content_2540070.htm)
 
 ## Econometrics & paper
 + [厦门大学公开课：高级计量经济学](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fxiadagaojijiliangjingji.html)
