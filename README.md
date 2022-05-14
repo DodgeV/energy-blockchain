@@ -42,6 +42,7 @@
 ### tools for dissertation
 + [论文检测查重助手-论文查重,论文免费查重软件,免费毕业论文查重](http://zw.iptcheck.com.cn/)
 ### article for DEA
++ [数据包络分析的基本原理](https://wenku.baidu.com/view/a84f4d4cb0717fd5370cdc9a.html)
 + [随机前沿分析和包络数据分析 SFA,DEA 及Stata操作](https://mp.weixin.qq.com/s/VwZWDzXZN6ZTnLivUZuxOQ)
 + [Stata:数据包络分析(DEA)简明教程](https://zhuanlan.zhihu.com/p/130289495)
 + [Stata: 数据包络分析 (DEA) 简明教程](https://www.lianxh.cn/news/6ce6a8adb0c89.html)
@@ -77,6 +78,7 @@
 + [评估政策影响没有对照组数据的问题](http://www.360doc.com/content/20/0407/12/69408913_904390421.shtml)
 + [DID稳健性检验问题](http://www.360doc.com/content/21/1119/20/69408913_1005010404.shtml)
 + [缩尾1%](https://www.zhihu.com/question/302508062/answer/533404864)
++ [异质性分析](http://www.360doc.com/content/20/0401/00/29540381_903085153.shtml)
 
 ## some tutorials about Blockchain
 + What is Blockchain Technology: https://www.coindesk.com/information/what-is-blockchain-technology/
