@@ -39,6 +39,7 @@
 + [如何写好科研论文](https://www.bilibili.com/video/BV1b5411Y7QM?p=122)
 + [【希施玛大学】杨博士保姆级实证研究论文写作教程](https://www.bilibili.com/video/BV1zv411e7Eo)
 + [【论文写作】去口语化与精准表达，审稿人看了都流泪](https://www.bilibili.com/video/BV1R7411279A)
++ [普林斯顿免费stata教程](http://www.princeton.edu/~otorres/Stata/)
 ### tools for dissertation
 + [论文检测查重助手-论文查重,论文免费查重软件,免费毕业论文查重](http://zw.iptcheck.com.cn/)
 ### article for DEA
