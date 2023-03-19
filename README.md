@@ -4,6 +4,7 @@
 
 + [VAKT](https://www.thoughtworks.com/cn/clients/vakt)
 + [Blockchain Demo](https://andersbrownworth.com/blockchain)
++ [区块链行业的估值模型以及存在的弊端|白话区块链入门248](https://mp.weixin.qq.com/s?__biz=MzUyNzE4MDM2MA==&mid=2247505396&idx=2&sn=849e3e590a1eee7d580513f21e0db6eb&chksm=fa01e2d3cd766bc59ac6f37e051ce8bcf8718e676d5447a183d261f7da86f62c79b25cb64677&mpshare=1&scene=1&srcid=101286fiXliab5mXIetgVhiH&sharer_sharetime=1679189679949&sharer_shareid=ccb3982f74463770fa13a7e792141680#rd)
 + [浅谈区块链项目的估值模型](https://zhuanlan.zhihu.com/p/43585328)
 + [区块链系统评估方式1.0](https://www.jianshu.com/p/981854f4190f)&[METI的原文](https://www.useit.com.cn/thread-15088-1-1.html)
 + [Defi Pulse--展示以太坊和去中心化项目的锁仓情况](https://defipulse.com/)
